@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'News_Gothic';
+  src: url(NewsGothicLight.otf);
+}
+
+.new-font {
+  font-family: 'News_Gothic';
+}
